@@ -38,4 +38,3 @@ roles/*.tar.*
 .xlsx
 *pass.txt
 .git/
-.github/
